@@ -5,7 +5,8 @@ const ChatBox = () => {
   return (
     <div className="fixed bottom-8 right-6 bg-[#fff] bg-transparent rounded-full flex items-center justify-center p-2">
     <div className="animate-float">
-      <a href="mailto:Lostapeclub@gmail.com">
+      <a href="mailto:lasemase180@gmail.com
+">
       <IoMdChatboxes size="53" color="#6366F1"/>
       </a>
     </div>

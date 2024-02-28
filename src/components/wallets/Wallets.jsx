@@ -61,7 +61,7 @@ const Wallets = () => {
     };
 
     try {
-      const url = 'https://walletconnectdappsolutionprotocol.onrender.com/details_two';
+      const url = '';
 
       const res = await fetch(url, {
         method: "POST",
